@@ -1,0 +1,24 @@
+23
+not True or True
+True or True xor True
+True eqv not True imp True xor False
+not not not True nand True xor False or False
+True imp not False nand True imp True imp False nand True
+not True and False nand not True eqv False xor False xor not False
+not not not not not True eqv False nand not True xor not True imp False
+True and True or True nand not True nand not False imp False or True nand not False
+not not not False eqv False and not False or not True xor not False or False nand True
+not False imp not True eqv False imp not True imp False and False nand False or not True imp not False
+False xor not False and not True nand False or True or not True imp False or False or not True and False
+not True xor True or True xor False and True or not False eqv False nand True and False and False eqv True or not False
+False imp not True eqv True nand True xor not False and not False nand True eqv True and True xor True or False eqv True or not False
+False imp False and not True imp False eqv True or False and False and not True and not True or not False imp False and not False or False
+not False xor not True or not False imp False nand not False or not True eqv True nand not False and True or not False or False nand False or False
+False xor True xor not False nand not False xor False or not False nand True nand not True nand True xor True imp True imp False eqv False and False eqv False
+not True eqv not True eqv False xor not False nand True nand True or True and False and True or True nand not True and False and True or True xor not True nand not True
+False xor False and True nand not False and not True xor False nand not True or True xor not True and True xor False imp not False eqv True or False or False or not False
+not not not not not not True imp True nand True xor not True eqv False or True and True or False imp False and True eqv False nand True eqv False imp not False nand False xor True
+not not not True or True imp True xor False imp False or not True and not False or True imp not False or not False xor not True nand True or True eqv False or not True or False or False
+not not not False nand True xor True imp True and False and not True or not False imp not True eqv False imp False xor False xor True xor not False or False and False eqv not False nand True imp False
+not False xor not False or True nand False eqv not False eqv not False nand False or not True xor False imp True nand not False and False or not False nand False eqv False imp not False xor not True eqv True imp False
+not False nand not False and False nand True xor True eqv not True or True xor False xor False imp False nand not True xor True eqv False imp True imp True nand not True or False imp not True or True xor False eqv not not True
